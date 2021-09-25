@@ -1,0 +1,13 @@
+.img-brand {
+    height: 30px;
+    width: 30px;
+  }
+  .img-brand-sm {
+    height: 18px;
+    width: 18px;
+  }
+  .foot-links a{
+    text-decoration: none;
+    color: white;
+    font-weight: 400;
+  }
